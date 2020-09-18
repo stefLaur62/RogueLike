@@ -4,9 +4,9 @@
 
 Ce jeu est un roguelike se jouant au clavier.
 Le joueur a le choix entre plusieurs personnages:
-*Guerrier
-*Mage
-*Assassin
+	* Guerrier
+	* Mage
+	* Assassin
 
 Chacun ayant ses propres caractéristiques (plus de vitalité ...) celles-ci peuvent être augmenté en montant de niveau.
 
@@ -17,14 +17,14 @@ Des boutiques comme le forgeron sont disponibles au village pour l'aider en éch
 Pour passer un niveau, le joueur doit battre un boss qui selon son avancé sera plus ou moins dur.
 
 
-##Version actuelle:
+## Version actuelle:
 
 Le jeu se lance sur le menu principal se composant de 5 boutons:
-*Nouvelle Partie
-*Continuer
-*Options
-*Aide
-*Quitter le jeu
+	* Nouvelle Partie
+	* Continuer
+	* Options
+	* Aide
+	* Quitter le jeu
 	
 Lorsque l'on va dans nouvelle partie, le joueur peut configurer sa partie, c'est a dire le nom de son personnage et sa classe 
 Une fois validé le joueur arrive au village du jeu.
