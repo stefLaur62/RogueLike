@@ -3,6 +3,7 @@
 **:wrench: Projet en cours de réalisation pour le plaisir.**
 
 Ce jeu est un roguelike se jouant au clavier.
+
 Le joueur a le choix entre plusieurs personnages:
 	* Guerrier
 	* Mage

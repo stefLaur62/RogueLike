@@ -8,7 +8,15 @@ public class ConfigManager : MonoBehaviour
 {
     public ParameterData data;
 
-    private string file = "";
+    private string file = "config.txt";
+
+    void Start()
+    {
+        Debug.Log("TT");
+        //Debug.Log(data.jump.ToString());
+        Load();
+        Debug.Log(data.jump.ToString());
+    }
 
     public bool Save()
     {
